@@ -21,11 +21,11 @@ As a recent graduate of AA academy, I’m seeking a position as a fullstack soft
 
 - 📫 How to reach me:
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jiamingao/)">
+  <a href="https://www.linkedin.com/in/jiamingao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
   <div id="email">
-  <a href="[emial]mailto: tinabb1102@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%20?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto: tinabb1102@gmail.com>
+    <img src="https://img.shields.io/badge/gmail-%20?style=for-the-badge&logo=gmail&logoColor=red&color=white" />
   </a>
