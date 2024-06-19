@@ -1,8 +1,8 @@
-## Hi there 👋 This is Jiamin
+# Hi there 👋 This is Jiamin
 As a recent graduate of AA academy, I’m seeking a position as a fullstack software developer. I am passionate about using coding to solve real-world problems and create value for customers and businesses. 
 
 
-# Tech Stack:
+## Tech Stack:
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=for-the-badge&logo=Python&color=gray)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%20?style=for-the-badge&logo=JavaScript&color=gray)
 ![Static Badge](https://img.shields.io/badge/Flask-%20?style=for-the-badge&logo=Flask&color=gray)
@@ -20,4 +20,4 @@ As a recent graduate of AA academy, I’m seeking a position as a fullstack soft
 
 
 
-# 📫 How to reach me: <div id="badges"><a href="https://www.linkedin.com/in/jiamingao/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+## 📫 How to reach me: <div id="badges"><a href="https://www.linkedin.com/in/jiamingao/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
