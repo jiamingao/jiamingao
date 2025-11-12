@@ -1,5 +1,5 @@
 # Hi there 👋 This is Jiamin
-As a recent graduate of AA academy, I’m seeking a position of fullstack software developer. I am passionate about using coding to solve real-world problems and create value for customers and businesses. 
+I’m seeking a position of fullstack software developer. I am passionate about using coding to solve real-world problems and create value for customers and businesses. 
 
 
 ## Tech Stack:
